@@ -1,21 +1,17 @@
 # Christian Heckler
 
-## Zerifikat
+## Zerifikate
 
 [Architektur-Zertifikat](https://skillshub.isqi.org/c9550fa4-4604-43df-b026-17865e6c9613)
 
 ## Logins
 
 * Oracle:
-
-** [Cloud-Login](https://www.oracle.com/cloud/sign-in.html?intcmp=OcomFreeTier)
-
-** [APEX-Login](https://hptlg5d8am5ykul-chhdb.adb.eu-frankfurt-1.oraclecloudapps.com/ords/f?p=4500:1000:116062255310321:::::)
-
-** [Anwendung-Login](https://hptlg5d8am5ykul-chhdb.adb.eu-frankfurt-1.oraclecloudapps.com/ords/r/chhapex/stechuhr/login?session=104317771741743)
+  * [Cloud-Login](https://www.oracle.com/cloud/sign-in.html?intcmp=OcomFreeTier)
+  * [APEX-Login](https://hptlg5d8am5ykul-chhdb.adb.eu-frankfurt-1.oraclecloudapps.com/ords/f?p=4500:1000:116062255310321:::::)
+  * [Anwendung-Login](https://hptlg5d8am5ykul-chhdb.adb.eu-frankfurt-1.oraclecloudapps.com/ords/r/chhapex/stechuhr/login?session=104317771741743)
 
 
 * Domäne:
-
-** [Login](https://all-inkl.com/members/)
+  * [Login](https://all-inkl.com/members/)
 
