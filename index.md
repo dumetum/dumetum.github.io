@@ -1,15 +1,14 @@
-# Christian Heckler
 
-## Python-kurse
+# Python-kurse
 
 * [Unterlagen für einen Pythonkurs für Menschen ohne Programmierkenntnisse](https://github.com/dumetum/pythonkurs)
 * [Unterlagen für einen Pythonkurs für Menschen mit Programmiererfahrung](https://github.com/dumetum/pythonkurs-programmierer)
 
-## Zerifikate
+# Zerifikate
 
 * [Architektur-Zertifikat](https://skillshub.isqi.org/c9550fa4-4604-43df-b026-17865e6c9613)
 
-## Private Logins
+# Private Logins
 
 * Oracle:
   * [Cloud-Login](https://www.oracle.com/cloud/sign-in.html?intcmp=OcomFreeTier)
