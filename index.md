@@ -1,5 +1,5 @@
 
-# Python-kurse
+# Python-Kurse
 
 * [Unterlagen für einen Pythonkurs für Menschen ohne Programmierkenntnisse](https://github.com/dumetum/pythonkurs)
 * [Unterlagen für einen Pythonkurs für Menschen mit Programmiererfahrung](https://github.com/dumetum/pythonkurs-programmierer)
