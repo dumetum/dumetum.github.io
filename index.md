@@ -7,7 +7,7 @@
 # Zertifikate
 
 * [Architektur-Zertifikat](https://skillshub.isqi.org/c9550fa4-4604-43df-b026-17865e6c9613)
-* [Moderation](badge-haufe-moderation.png "Moderation") ([Echtheitsprüfung](badgecheck.io "badgecheck.io"))
+* [Moderation](badge-haufe-moderation.png "Moderation") ([Echtheitsprüfung](https://badgecheck.io "badgecheck.io"))
 
 # Private Logins
 
