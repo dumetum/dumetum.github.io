@@ -7,7 +7,7 @@
 # Zertifikate
 
 * [Architektur-Zertifikat](https://skillshub.isqi.org/c9550fa4-4604-43df-b026-17865e6c9613)
-* [Moderation](badge-haufe-moderation.png "Moderation") ([Echtheitsprüfung](https://badgecheck.io "badgecheck.io"))
+* [Moderation](badge-haufe-moderation.png "Moderation")[link ¹](#echtheit)
 
 # Private Logins
 
@@ -20,4 +20,6 @@
 
 * Domäne:
   * [Login](https://all-inkl.com/members/)
+
+¹<a name="echtheit"></a> [Echtheitsprüfung](https://badgecheck.io "badgecheck.io") unter Eingabe von https://dumetum.github.io/badge-haufe-moderation.png
 
