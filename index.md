@@ -13,12 +13,12 @@
 
 * Oracle:
   * [Cloud-Login](https://www.oracle.com/cloud/sign-in.html?intcmp=OcomFreeTier)
-  * [APEX] (https://apex.oracle.com/pls/apex/)
+  * [APEX](https://apex.oracle.com/pls/apex/)
 
 * Domäne:
   * [Login](https://all-inkl.com/members/)
   
-* [NextCloud] (https://230408cihx2prs6gkdu.nextcloud.hosting.zone/)
+* [NextCloud](https://230408cihx2prs6gkdu.nextcloud.hosting.zone/)
 
 ¹<a name="echtheit"></a> [Echtheitsprüfung](https://badgecheck.io "badgecheck.io") unter Eingabe von https://dumetum.github.io/badge-haufe-moderation.png
 
