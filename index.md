@@ -8,7 +8,7 @@
 
 * [Architektur-Zertifikat](https://skillshub.isqi.org/c9550fa4-4604-43df-b026-17865e6c9613)
 * [Moderation](badge-haufe-moderation.png "Moderation")[¹](#echtheit)
-* [Tischtennis-Trainerlizenz] (TT-Lizenz-0.jpg "Tischtennis-Trainerlizenz")
+* [Tischtennis-Trainerlizenz](TT-Lizenz-0.jpg "Tischtennis-Trainerlizenz")
 
 # Private Logins
 
